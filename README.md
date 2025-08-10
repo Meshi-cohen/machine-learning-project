@@ -46,7 +46,7 @@ Each folder contains:
 
 ## 📊 Best Results
 
-![Best Results](<img width="1473" height="968" alt="bestresult" src="https://github.com/user-attachments/assets/9d7812bf-445f-44a0-b79e-e6b52315aadd" />)
+![Best Results](<img width="1473" height="968" alt="bestresult" src="https://github.com/user-attachments/assets/9d7812bf-445f-44a0-b79e-e6b52315aadd" />.png)
 
 **Key Insights:**
 - **Random Forest (RF)** achieved the highest accuracy in most configurations.
