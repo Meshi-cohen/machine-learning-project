@@ -58,5 +58,7 @@ Each folder contains:
 # 👩‍💻 Authors
 
 Meshi Cohen
+
 Mayam Malka
+
 Lee Luvitch
