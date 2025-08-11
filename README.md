@@ -54,3 +54,9 @@ Each folder contains:
 - **SVM** was weaker without overlap but improved significantly with larger windows and overlap.
 - Overlapping windows generally **improved accuracy**, especially for SVM.
 - With **stride**, larger window sizes often yielded better performance.
+
+# 👩‍💻 Authors
+
+Meshi Cohen
+Mayam Malka
+Lee Luvitch
